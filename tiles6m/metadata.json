@@ -1,0 +1,7 @@
+{
+    "name": "terrain-rgb",
+    "type": "overlay",
+    "description": "Terrain RGB tiles from MOI 6m DEM",
+    "version": "3",
+    "format": "png"
+}
